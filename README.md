@@ -2,7 +2,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/revision-1-lightgrey.svg" alt="GTA Life Revision"/>
 	&nbsp;&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/Version-Potatoes-green.svg" alt="GTA Life Version name"/>
+	<img src="https://img.shields.io/badge/Version%20Name-Potatoes-green.svg" alt="GTA Life Version name"/>
 	&nbsp;&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/MTA-v1.6-green.svg" alt="MTA Version"/>
 </p>
