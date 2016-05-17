@@ -1,4 +1,5 @@
-<h1 align="center">GTA Life</h1>
+<h1 align="center">GTA Life</h1><br>
+<center><b><font color="red">PLEASE NOTE - We use Github to host the download of the gamemode and to log issues. The code isn't being hosted here as we keep our project closed-sourced.</font></b></center><br>
 <p align="center">
 	<img src="https://img.shields.io/badge/revision-1-lightgrey.svg" alt="GTA Life Revision"/>
 	&nbsp;&nbsp;&nbsp;
@@ -10,7 +11,7 @@
 <b>GTA Life</b> was created and mainly developed by <b>Jack J.</b> AKA <b>1B0Y</b>.<br>
 By using the framework of GTA Life, you agree to the [terms of agreement] (readme.md/#usage--terms-of-agreement). and knowledge that the terms are subjected to be changed over time.<br>
 
-[Setting up a server]
+Setting up a server
 ----------------------
 The project is currently not in a state of allowing our members to setup their own servers. For more information on how to become a partner with us and receive beta versions of the gamemode, please contact Jack over on GTANet (in #GTA-Life).
 
