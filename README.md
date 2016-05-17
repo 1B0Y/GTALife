@@ -1,4 +1,4 @@
-# <h1 align="center">GTA Life</h1>
+<h1 align="center">GTA Life</h1>
 <p align="center">
 	<a href="https://img.shields.io/badge/revision-1-lightgrey.svg" alt="GTA Life Revision"></a>
 	&nbsp;&nbsp;&nbsp;
