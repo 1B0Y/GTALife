@@ -1,10 +1,10 @@
 <h1 align="center">GTA Life</h1>
 <p align="center">
-	<a href="https://img.shields.io/badge/revision-1-lightgrey.svg" alt="GTA Life Revision"></a>
+	<img src="https://img.shields.io/badge/revision-1-lightgrey.svg" alt="GTA Life Revision"/>
 	&nbsp;&nbsp;&nbsp;
-	<a href="https://img.shields.io/badge/Version-Potatoes-green.svg" alt="GTA Life Version name"></a>
+	<img src="https://img.shields.io/badge/Version-Potatoes-green.svg" alt="GTA Life Version name"/>
 	&nbsp;&nbsp;&nbsp;
-	<a href="https://img.shields.io/badge/MTA-v1.6-green.svg" alt="MTA Version"></a>
+	<img src="https://img.shields.io/badge/MTA-v1.6-green.svg" alt="MTA Version"/>
 </p>
 
 <b>GTA Life</b> was created and mainly developed by <b>Jack J.</b> AKA <b>1B0Y</b>.<br>
