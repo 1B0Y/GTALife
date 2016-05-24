@@ -1,7 +1,7 @@
 <h1 align="center">GTA Life</h1><br>
 <center><b><font color="red">PLEASE NOTE - We use Github to host the download of the gamemode and to log issues. The code isn't being hosted here as we keep our project closed-sourced.</font></b></center><br>
 <p align="center">
-	<img src="https://img.shields.io/badge/revision-1-lightgrey.svg" alt="GTA Life Revision"/>
+	<img src="https://img.shields.io/badge/revision-N%2FA-lightgrey.svg" alt="GTA Life Revision"/>
 	&nbsp;&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Version%20Name-Potatoes-green.svg" alt="GTA Life Version name"/>
 	&nbsp;&nbsp;&nbsp;
